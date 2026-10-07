@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "unity-videofx.sln"
+    "dotnet.defaultSolution": "videofx_bouton_pot_unity.sln"
 }
